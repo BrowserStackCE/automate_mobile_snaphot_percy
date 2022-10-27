@@ -19,8 +19,8 @@
 - ./percy-automate.sh
 
 ### Results
-![Screenshot 2022-10-27 at 8 36 36 PM](https://user-images.githubusercontent.com/53310042/198327328-15f2fc41-39fb-4a46-bcee-9abce11bf902.png)
 
+![Screenshot 2022-10-27 at 8 38 24 PM](https://user-images.githubusercontent.com/53310042/198327667-f23fee6f-9949-499c-83be-18fc7a051968.png)
 
 
 ### Notes
