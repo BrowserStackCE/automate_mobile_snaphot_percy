@@ -18,6 +18,10 @@
 - sudo chmod +x automate-percy.sh
 - ./percy-automate.sh
 
+###Results
+![Screenshot 2022-10-27 at 8 36 36 PM](https://user-images.githubusercontent.com/53310042/198327328-15f2fc41-39fb-4a46-bcee-9abce11bf902.png)
+
+
 
 ### Notes
 * You can export the environment variables for the Username and Access Key of your BrowserStack account
