@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "BROWSERSTACK_USERNAME",
+  "key": "BROWSERSTACK_ACCESS_KEY",
+
+  "capabilities": {
+    "bstack:options": {
+      "buildName": "browserstack-build-1",
+      "sessionName": "BStack automate snapshot to percy",
+      "browserVersion": "latest",
+      "debug": true
+    }
+  },
+
+  "environments": {
+    "chrome": {
+        "device": "Google Pixel 6"
+    }
+  }
+}
