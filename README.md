@@ -1,0 +1,1 @@
+# automate_mobile_snaphot_percy
